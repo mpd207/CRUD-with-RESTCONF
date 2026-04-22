@@ -1,0 +1,4 @@
+com\mock\InterfaceController.class
+com\mock\MockServerApplication.class
+com\mock\NetworkInterfaceRepository.class
+com\mock\NetworkInterfaceEntity.class
